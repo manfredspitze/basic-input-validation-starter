@@ -1,7 +1,9 @@
 **Introduction to Python: Tiered Programming Assignment**
 
 **Objective:**  
-This assignment is designed to help you practice basic string manipulation and input validation in Python. You will write a Python script that prompts the user for a string input and then validates that input using some combination of the `isalpha()` string method, `isdigit()` string method, and the built-in `len()` function. 
+This assignment is designed to help you practice basic string manipulation and input validation in Python. 
+
+You will write a Python script that prompts the user for a string input and then validates that input using some combination of the `isalpha()` string method, `isdigit()` string method, and the built-in `len()` function. 
 
 The assignment has three levels, each progressively more challenging.
 
