@@ -1,4 +1,4 @@
-**Introduction to Python: Tiered Programming Assignment**
+**Python: Tiered Programming Assignment**
 
 **Objective:**  
 This assignment is designed to help you practice basic string manipulation and input validation in Python. 
