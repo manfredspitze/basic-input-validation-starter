@@ -5,9 +5,9 @@ This assignment is designed to help you practice basic string manipulation and i
 
 The assignment has three levels, each progressively more challenging.
 
-Choose a level you and your partner think you can complete and write (and submit) the script for that level.
+Choose a level you and your partner think you can complete and write (and submit) the script for that level.  **You only need to complete ONE LEVEL.**
 
-Before you write any code, make sure you understand how to use:
+Before you write any code, research these string methods and the `len( )` function (which works with lists **and** strings) on w3schools.com:
 
 - the `isalpha()` string method
 - the `isdigit()` string method
