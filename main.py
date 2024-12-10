@@ -2,5 +2,6 @@
 # Current date
 # Validating String Input (Tiered Assignment)
 
-# Which level are you and your partner working on today?
+# Are you and your partner working on Level 1, Level 2 or Level 3 today?
+# Working on Level...
 
