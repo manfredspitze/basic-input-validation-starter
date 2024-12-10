@@ -1,13 +1,5 @@
 # Student name
 # Current date
-# Basics of Input Validation
-
-# Task 1
+# Validating String Input (Tiered Assignment)
 
 
-
-# Task 2
-
-
-
-# Task 3
