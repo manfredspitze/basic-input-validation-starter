@@ -60,9 +60,10 @@ Look on the [w3schools.com](https://www.w3schools.com/python/python_ref_string.a
 **Task:**  
 1. Prompt the user to enter a string.
 2. Use the `isalpha()` method to check if the input consists only of letters OR use `isdigit()` to check if the input consists only of digits (use `OR` to combine the checks).
-3. Use the `len()` function to check if the length of the string is between 6 and 10 characters (inclusive).
-4. If both conditions are met, print: "Valid input: [user's input]."
-5. If any condition fails, print the corresponding error message:
+3. 
+4. Use the `len()` function to check if the length of the string is between 6 and 10 characters (inclusive).
+5. If both conditions are met, print: "Valid input: [user's input]."
+6. If any condition fails, print the corresponding error message:
    - "Input must be alphabetic or numeric (but not both)."
    - "Input must be between 6 and 10 characters long."
 
